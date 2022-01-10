@@ -1,0 +1,16 @@
+[DEFAULT]
+default_rate = 48000
+chunk = 512
+n_fft = 2048
+use_system_audio = 1
+odf_sec = 9
+bpm_poll_sec = 3
+base_bpm = 120
+std_bpm = 2.9
+min_bpm = 40
+max_bpm = 250
+gif_dir = kirby.gif
+gif_n_beats = 1
+winfo_x = 1725
+winfo_y = 786
+
